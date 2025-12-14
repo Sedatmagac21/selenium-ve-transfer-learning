@@ -1,0 +1,9 @@
+tensorflow>=2.8.0
+numpy>=1.19.5
+Pillow>=8.4.0
+scikit-learn>=1.0.2
+selenium>=4.1.0
+requests>=2.27.1
+webdriver_manager>=3.8.0
+icrawler>=0.6.10
+imagehash>=4.3.0
